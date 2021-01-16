@@ -1,4 +1,4 @@
-package com.jkay.task.task01.task05;
+package com.jkay.task.level01.task05;
 
 /**
  * Ну это… С новым годом!

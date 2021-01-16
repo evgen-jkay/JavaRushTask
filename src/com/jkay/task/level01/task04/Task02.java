@@ -1,4 +1,4 @@
-package com.jkay.task.task01.task04;
+package com.jkay.task.level01.task04;
 
 /**
  * Мой юный друг

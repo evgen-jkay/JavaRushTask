@@ -1,4 +1,4 @@
-package com.jkay.task.task01.task01;
+package com.jkay.task.level01.task01;
 
 /**
  * Амиго очень умный

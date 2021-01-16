@@ -1,4 +1,4 @@
-package com.jkay.task.task01.task02;
+package com.jkay.task.level01.task02;
 
 /**
  * Я думаю, быть программистом - это круто

@@ -1,4 +1,4 @@
-package com.jkay.task.task01.task03;
+package com.jkay.task.level01.task03;
 
 /**
  * Объявляем переменные
