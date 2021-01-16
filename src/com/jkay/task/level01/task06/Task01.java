@@ -1,7 +1,7 @@
 package com.jkay.task.level01.task06;
-/**
- * Комментарии излишни
- */
+/*
+ Комментарии излишни
+*/
 public class Task01 {
     public static void main(String[] args) {
         int x = 2;

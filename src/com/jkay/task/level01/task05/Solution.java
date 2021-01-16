@@ -1,8 +1,8 @@
 package com.jkay.task.level01.task05;
 
-/**
- * Ну это… С новым годом!
- */
+/*
+ Ну это… С новым годом!
+*/
 
 public class Solution {
     public static void main(String[] args) {

@@ -1,8 +1,8 @@
 package com.jkay.task.level01.task06;
 
-/**
- * 2 + 3 = 5
- */
+/*
+ 2 + 3 = 5
+*/
 
 public class Task02 {
     public static void main(String[] args) {

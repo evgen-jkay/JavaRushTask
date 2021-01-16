@@ -1,8 +1,8 @@
 package com.jkay.task.level01.task01;
 
-/**
- * Амиго очень умный
- */
+/*
+Амиго очень умный
+*/
 
 public class Solution {
     public static void main(String[] args) {

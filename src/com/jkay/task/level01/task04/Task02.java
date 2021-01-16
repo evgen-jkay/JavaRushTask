@@ -1,8 +1,8 @@
 package com.jkay.task.level01.task04;
 
-/**
- * Мой юный друг
- */
+/*
+ Мой юный друг
+*/
 
 public class Task02 {
     public static void main(String[] args) {
