@@ -5,7 +5,7 @@ package com.jkay.task.task01;
  */
 
 public class Solution {
-    public Solution() {
+    public static void main(String[] args) {
         System.out.println("Амиго очень умный");
     }
 }
