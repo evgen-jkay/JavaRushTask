@@ -1,7 +1,7 @@
 package com.jkay.task.level01.task02;
 
 /*
- Я думаю, быть программистом - это круто
+Я думаю, быть программистом - это круто
 */
 
 public class Solution {

@@ -1,7 +1,7 @@
 package com.jkay.task.level01.task04;
 
 /*
- «Я по объявлению…»
+«Я по объявлению…»
 */
 
 public class Task01 {

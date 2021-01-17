@@ -1,7 +1,7 @@
 package com.jkay.task.level01.task03;
 
 /*
- Объявляем переменные
+Объявляем переменные
 */
 
 public class Solution {
