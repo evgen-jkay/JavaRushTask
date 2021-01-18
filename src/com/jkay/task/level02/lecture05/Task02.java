@@ -1,5 +1,7 @@
 package com.jkay.task.level02.lecture05;
 
+import java.util.Scanner;
+
 /*
 Чтение чисел
 
@@ -10,8 +12,6 @@ package com.jkay.task.level02.lecture05;
 Среднее арифметическое - это число, равное сумме всех чисел, деленной на их количество.
 Используй деление без остатка.
 */
-
-import java.util.Scanner;
 
 public class Task02 {
     public static void main(String[] args) {

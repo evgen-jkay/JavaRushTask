@@ -1,4 +1,7 @@
 package com.jkay.task.level02.lecture05;
+
+import java.util.Scanner;
+
 /*
 Чтение и преобразование строк
 
@@ -9,8 +12,6 @@ package com.jkay.task.level02.lecture05;
     3. Выведи на экран первую строку, предварительно преобразовав ее к нижнему регистру.
 Пример ввода: Строка Номер РАЗ Втор
 */
-
-import java.util.Scanner;
 
 public class Task01 {
     public static void main(String[] args) {

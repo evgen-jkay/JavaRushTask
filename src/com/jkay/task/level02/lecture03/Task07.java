@@ -1,13 +1,13 @@
 package com.jkay.task.level02.lecture03;
 
+import java.util.Locale;
+
 /*
 Попрошу регистр на меня не повышать!
 
 В методе main на экран выводятся три строки.
 Внеси изменения в код, чтобы все буквы в этих строках стали заглавными.
 */
-
-import java.util.Locale;
 
 public class Task07 {
     public static void main(String[] args) {
