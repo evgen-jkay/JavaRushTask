@@ -1,5 +1,7 @@
 package com.jkay.task.level03.lecture04;
 
+import java.util.Scanner;
+
 /*
 Координатные четверти
 
@@ -7,8 +9,6 @@ package com.jkay.task.level03.lecture04;
 а второе - координата "y"). Известно, что точка не лежит на координатных осях OX и OY.
 Вывести на экран номер координатной четверти, в которой находится данная точка.
 */
-
-import java.util.Scanner;
 
 public class Task03 {
     public static void main(String[] args) {

@@ -1,4 +1,7 @@
 package com.jkay.task.level03.lecture02;
+
+import java.util.Scanner;
+
 /*
 Школа или институт
 
@@ -6,8 +9,6 @@ package com.jkay.task.level03.lecture02;
 Но она работает неправильно. Например, пятилетнего ребенка отправляют в институт!
 Исправить программу несложно: достаточно в нужном месте поставить фигурные скобки.
 */
-
-import java.util.Scanner;
 
 public class Solution {
     public static void main(String[] args) {

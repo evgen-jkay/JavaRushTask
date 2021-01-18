@@ -1,13 +1,13 @@
 package com.jkay.task.level03.lecture06;
 
+import java.util.Scanner;
+
 /*
 Сломанная клавиатура
 
 Амиго создал секретное слово для доступа к закрытой информации,
 но у него сломалась клавиатура и теперь невозможно набирать буквы в верхнем регистре.
 */
-
-import java.util.Scanner;
 
 public class Task03 {
     public static String secret = "AmIGo";

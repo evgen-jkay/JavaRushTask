@@ -1,5 +1,7 @@
 package com.jkay.task.level03.lecture05;
 
+import java.util.Scanner;
+
 /*
 Через тернии...
 
@@ -7,8 +9,6 @@ package com.jkay.task.level03.lecture05;
 Думаем, если избавиться от тернарного оператора, то станет намного понятнее.
 Перепиши программу без использования тернарного оператора.
 */
-
-import java.util.Scanner;
 
 public class Task02 {
     public static void main(String[] args) {

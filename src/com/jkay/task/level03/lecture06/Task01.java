@@ -1,12 +1,12 @@
 package com.jkay.task.level03.lecture06;
 
+import java.util.Scanner;
+
 /*
 Сравним строки
 
 Напиши программу, которая считывает с клавиатуры две строки и выдает сообщение о том, одинаковые ли эти строки.
 */
-
-import java.util.Scanner;
 
 public class Task01 {
     public static void main(String[] args) {

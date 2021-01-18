@@ -1,5 +1,7 @@
 package com.jkay.task.level03.lecture01;
 
+import java.util.Scanner;
+
 /*
 Призывная кампания
 
@@ -8,8 +10,6 @@ package com.jkay.task.level03.lecture01;
 где Имя - это имя, введенное ранее с клавиатуры.
 Пример ввода: Amigo 18 Пример вывода: Amigo, явитесь в военкомат
 */
-
-import java.util.Scanner;
 
 public class Task02 {
     public static void main(String[] args) {

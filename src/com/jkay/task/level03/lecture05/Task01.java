@@ -1,5 +1,7 @@
 package com.jkay.task.level03.lecture05;
 
+import java.util.Scanner;
+
 /*
 Ищем максимум
 
@@ -7,8 +9,6 @@ package com.jkay.task.level03.lecture05;
 Если числа одинаковые, то выводится любое.
 Перепиши программу с использованием тернарного оператора, чтобы ее функционал остался без изменений.
 */
-
-import java.util.Scanner;
 
 public class Task01 {
     public static void main(String[] args) {

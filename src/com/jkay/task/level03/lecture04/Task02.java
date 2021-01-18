@@ -1,5 +1,7 @@
 package com.jkay.task.level03.lecture04;
 
+import java.util.Scanner;
+
 /*
 Работать или не работать - вот в чем вопрос
 
@@ -8,8 +10,6 @@ package com.jkay.task.level03.lecture04;
 Сделать это можно (и нужно!) с помощью только одного оператора if без else.
 Подсказка : используй логический оператор "||"
 */
-
-import java.util.Scanner;
 
 public class Task02 {
     public static void main(String[] args) {

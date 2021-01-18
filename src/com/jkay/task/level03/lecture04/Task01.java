@@ -1,5 +1,7 @@
 package com.jkay.task.level03.lecture04;
 
+import java.util.Scanner;
+
 /*
 Треугольник
 
@@ -8,8 +10,6 @@ package com.jkay.task.level03.lecture04;
 1. Ввести с клавиатуры три числа – длины сторон предполагаемого треугольника.
 2. Определить возможность существования треугольника по сторонам.
 */
-
-import java.util.Scanner;
 
 public class Task01 {
     private static final String TRIANGLE_EXISTS = "треугольник существует";

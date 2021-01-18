@@ -1,5 +1,7 @@
 package com.jkay.task.level03.lecture03;
 
+import java.util.Scanner;
+
 /*
 Измерим температуру тела
 
@@ -8,8 +10,6 @@ package com.jkay.task.level03.lecture03;
 В классе объявлены две булевые переменные isHigh (высокая температура) и isLow (низкая),
 в которые нужно вынести соответствующие условия и вместо выражений сравнения использовать эти переменные
 */
-
-import java.util.Scanner;
 
 public class Task01 {
     public static boolean isHigh;

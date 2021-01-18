@@ -1,13 +1,13 @@
 package com.jkay.task.level03.lecture05;
 
+import java.util.Scanner;
+
 /*
 Высокая точность
 
 Напиши программу, которая считывает с клавиатуры два вещественных числа и выдает сообщение о том,
 равны ли эти числа с точностью до одной миллионной.
 */
-
-import java.util.Scanner;
 
 public class Task03 {
     public static void main(String[] args) {

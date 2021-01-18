@@ -1,13 +1,13 @@
 package com.jkay.task.level03.lecture01;
 
+import java.util.Scanner;
+
 /*
 Тепло или холодно
 
 Ввести с клавиатуры температуру на улице.
 Если температура меньше 0, вывести надпись "на улице холодно", иначе - вывести надпись "на улице тепло".
 */
-
-import java.util.Scanner;
 
 public class Task01 {
     public static void main(String[] args) {
