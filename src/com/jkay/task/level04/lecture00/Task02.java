@@ -1,5 +1,7 @@
 package com.jkay.task.level04.lecture00;
 
+import java.util.Scanner;
+
 /*
 Все любят Мамбу
 
@@ -7,8 +9,6 @@ package com.jkay.task.level04.lecture00;
 <имя> любит меня (переменная text).
 Каждый вывод - с новой строки.
 */
-
-import java.util.Scanner;
 
 public class Task02 {
     public static void main(String[] args) {

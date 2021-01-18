@@ -1,5 +1,7 @@
 package com.jkay.task.level04.lecture00;
 
+import java.util.Scanner;
+
 /*
 Суммирование
 
@@ -7,8 +9,6 @@ package com.jkay.task.level04.lecture00;
 пока пользователь не введет слово "ENTER".
 Вывести на экран полученную сумму и завершить программу.
 */
-
-import java.util.Scanner;
 
 public class Task03 {
     public static void main(String[] args) {
