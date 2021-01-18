@@ -13,6 +13,7 @@ import java.util.Scanner;
     а) при вводе чисел 1 2 2 получим вывод 2 2
     б) при вводе чисел 2 2 2 получим вывод 2 2 2
 */
+
 public class Task02 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
