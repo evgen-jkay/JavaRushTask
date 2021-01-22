@@ -1,3 +1,4 @@
+/*
 package com.jkay.game;
 
 import com.javarush.engine.cell.*;
@@ -9,4 +10,4 @@ public class MinesweeperGame extends Game {
     public void initialize() {
         setScreenSize(SIDE, SIDE);
     }
-}
+}*/
