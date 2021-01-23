@@ -1,5 +1,7 @@
 package com.jkay.task.level04.lecture02;
 
+import java.util.Scanner;
+
 /*
 Максимум из введенных чисел
 
@@ -9,13 +11,11 @@ package com.jkay.task.level04.lecture02;
 Если введено несколько таких чисел, необходимо вывести любое из них.
 */
 
-import java.util.Scanner;
-
 public class Task01 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int max = 0;
 
+        int max = Integer.MIN_VALUE;
         while (scanner.hasNextInt()) {
             int x = scanner.nextInt();
             if (x % 2 == 0 && x > max) {
