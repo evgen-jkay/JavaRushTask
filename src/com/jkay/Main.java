@@ -2,13 +2,10 @@ package com.jkay;
 
 public class Main {
     public static void main(String[] args) {
-        for (int i = 0; i < 10; i++)
-        {
-            int starCount = 10 - i;
-            for (int j = 0; j < starCount; j++)
-                System.out.print("*");
-            System.out.println();
-        }
+        int x = (int) Math.round(4.9);
+        System.out.println(x);
+        int y = (int) Math.ceil(4.9);
+        System.out.println(y);
     }
 }
 
